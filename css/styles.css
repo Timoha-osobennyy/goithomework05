@@ -186,7 +186,7 @@ address {
 }
 
 /* second section */
-.visualy-hidden {
+.visually-hidden {
     overflow: hidden;
     position: absolute;
     width: 1px;
